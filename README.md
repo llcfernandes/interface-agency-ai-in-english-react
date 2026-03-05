@@ -32,7 +32,7 @@
 
 ## Author
 
-Developed by **Lucas Fernandes** — [LinkedIn](https://www.linkedin.com/in/lucasfernandes-fullstack/)
+Developed by **Lucas Fernandes** — [Link](https://interface-agenci-ai-in-english-react-qr6kj9wtd.vercel.app)
 
 ---
 
@@ -70,4 +70,4 @@ Developed by **Lucas Fernandes** — [LinkedIn](https://www.linkedin.com/in/luca
 
 ## Autor
 
-Desenvolvido por **Lucas Fernandes** — [LinkedIn](https://www.linkedin.com/in/lucasfernandes-fullstack/)
+Desenvolvido por **Lucas Fernandes** — [Link](https://interface-agenci-ai-in-english-react-qr6kj9wtd.vercel.app)
