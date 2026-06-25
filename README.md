@@ -1,3 +1,10 @@
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://interface-agenci-ai-in-english-react-qr6kj9wtd.vercel.app)
+![React](https://img.shields.io/badge/React-19-61DAFB)
+![Vite](https://img.shields.io/badge/Vite-Frontend-646CFF)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-06B6D4)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animations-black)
+![Status](https://img.shields.io/badge/Status-Online-success)
+
 # 🚀 agency.ai
 
 Modern, animated and fully responsive digital agency landing page built with React 19, Tailwind CSS v4 and Framer Motion.
@@ -8,6 +15,7 @@ Designed to simulate a real-world SaaS or digital agency website, the project fo
 
 ## 🌐 Live Demo
 
+🚀 **Access the project:**
 https://interface-agenci-ai-in-english-react-qr6kj9wtd.vercel.app
 
 ---
@@ -26,6 +34,22 @@ Key goals of the project:
 * Explore advanced Tailwind CSS capabilities
 * Integrate external form services
 * Apply modern frontend best practices
+
+---
+
+## ☁️ Deployment
+
+### Frontend
+
+* Vercel
+
+### Contact Service
+
+* Web3Forms
+
+### Hosting
+
+* Global CDN via Vercel
 
 ---
 
